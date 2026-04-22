@@ -74,4 +74,3 @@ module dual_port_ram #(
     end
 
 endmodule
-
